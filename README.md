@@ -18,10 +18,11 @@ It's a repository where I keep updated about SLAM algorithms for state estimatio
 1. RTAB MAP
 2. KIMERA
 3. ORB SLAM
-4. Google Cartographer
-5. Hector SLAM
-6. GMapping 
-7. ROVIO
+4. ORB SLAM 2
+5. Google Cartographer
+6. Hector SLAM
+7. GMapping 
+8. ROVIO
 
 ## Tracking Algorithms for SLAM in OpenCV:
 ### Pre-Tracker
