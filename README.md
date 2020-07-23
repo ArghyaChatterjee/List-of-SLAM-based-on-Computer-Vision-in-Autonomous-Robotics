@@ -17,12 +17,20 @@ It's a repository where I keep updated about SLAM algorithms for state estimatio
 ### Stereo camera:
 1. RTAB MAP
 2. KIMERA
+3. TEASER ++
 3. ORB SLAM
 4. ORB SLAM 2
 5. Google Cartographer
-6. Hector SLAM
-7. GMapping 
-8. ROVIO
+6. ROVIO
+
+### LIDAR based SLAM:
+1. Gmapping
+2. Hector SLAM
+3. Google Cartographer
+
+### Mapping Framework:
+1. Octomapping (3D)
+2. VoxBlox (3D)
 
 ## Tracking Algorithms for SLAM in OpenCV:
 ### Pre-Tracker
@@ -37,21 +45,3 @@ It's a repository where I keep updated about SLAM algorithms for state estimatio
 ### Post-Tracker
 1. Feature Matching (Brute-Force matcher and FLANN based matcher)
 2. Feature Matching + Homography to find Objects
-
-## Monocular camera:
-1. Logitech Camera
-2. Raspberry PI camera
-3. Arduino camera
-4. Upsquared board camera
-4. Propheese event camera
-
-## Stereo Camera:
-1. Intel Realsense D435
-2. Intel Realsense D415
-3. ZED 
-
-## Stereo with IMU:
-1. Intel Realsense D435i
-2. Intel Realsense T265
-3. ZED2
-4. ZED Mini
