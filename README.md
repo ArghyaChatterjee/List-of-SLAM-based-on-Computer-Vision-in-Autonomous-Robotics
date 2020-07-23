@@ -24,7 +24,7 @@ It's a repository where I keep updated about SLAM algorithms for state estimatio
 6. ROVIO
 
 ### LIDAR based SLAM:
-1. Gmapping
+1. Gmapping (FAST SLAM)
 2. Hector SLAM
 3. Google Cartographer
 
