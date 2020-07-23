@@ -32,7 +32,7 @@ It's a repository where I keep updated about SLAM algorithms for state estimatio
 1. Octomapping (3D)
 2. VoxBlox (3D)
 
-## Tracking Algorithms for SLAM in OpenCV:
+## Tracking Algorithms in Visual Inertial Navigation for SLAM in OpenCV:
 ### Pre-Tracker
 1. Harris Corner Detection
 2. Shi-Tomasi Corner Detector & Good Features to Track
