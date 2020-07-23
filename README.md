@@ -1,4 +1,4 @@
-# SLAM-based-on-Computer-Vision-in-Autonomous-Robotics
+# SLAM-Algorithms-in-Autonomous-Robotics
 It's a repository where I keep updated about SLAM algorithms for state estimation based on computer vision in the Field of Robotics and Autonomous Navigation.
 ## SLAM Algorithms for Drones and Ground Rovers based on Computer Vision:
 ### Monocular camera:
