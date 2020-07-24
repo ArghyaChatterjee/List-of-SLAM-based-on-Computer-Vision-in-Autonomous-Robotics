@@ -8,9 +8,9 @@ It's a repository where I keep updated about SLAM algorithms for state estimatio
 4. OKVIS
 5. VINS-Mono
 6. SVO+GTSAM
-7. [ORB SLAM] (https://github.com/raulmur/ORB_SLAM)
-8. [ORB SLAM 2] (https://github.com/raulmur/ORB_SLAM2)
-9. [ORB SLAM 3] (https://github.com/UZ-SLAMLab/ORB_SLAM3)
+7. [ORB SLAM](https://github.com/raulmur/ORB_SLAM)
+8. [ORB SLAM 2](https://github.com/raulmur/ORB_SLAM2)
+9. [ORB SLAM 3](https://github.com/UZ-SLAMLab/ORB_SLAM3)
 10. Tiny SLAM
 11. Xivo 
 12. SLAM Toolbox
@@ -23,9 +23,9 @@ It's a repository where I keep updated about SLAM algorithms for state estimatio
 4. RTAB MAP (3D SLAM)
 5. KIMERA (3D SLAM)
 6. TEASER ++ (3D SLAM)
-7. [ORB SLAM (3D SLAM)] (https://github.com/raulmur/ORB_SLAM)
-8. [ORB SLAM 2 (3D SLAM)] (https://github.com/raulmur/ORB_SLAM2)
-9. [ORB SLAM 3 (3D SLAM)] (https://github.com/UZ-SLAMLab/ORB_SLAM3)
+7. [ORB SLAM (3D SLAM)](https://github.com/raulmur/ORB_SLAM)
+8. [ORB SLAM 2 (3D SLAM)](https://github.com/raulmur/ORB_SLAM2)
+9. [ORB SLAM 3 (3D SLAM)](https://github.com/UZ-SLAMLab/ORB_SLAM3)
 10. ROVIO (3D SLAM)
 
 ### LIDAR based SLAM:
