@@ -34,8 +34,12 @@ It's a repository where I keep updated about SLAM algorithms for state estimatio
 3. Google Cartographer (Open Karto)
 
 ### Mapping Framework:
-1. Octomapping (3D Mapping)
+1. Octomapping (3D Mapping) [paper](https://www.researchgate.net/publication/257523133) [code](https://github.com/OctoMap/octomap) [ROS Support](https://wiki.ros.org/octomap)
 2. VoxBlox (3D Mapping)
+3. PointClouds (3D Mapping)
+4. Elevation Maps (3D Mapping)
+5. Multi-level Surface Maps (3D Mapping) 
+6. Gmapping (2D Mapping)
 
 ## Tracking Algorithms in Visual Inertial Navigation for SLAM in OpenCV:
 ### [Pre-Tracker](https://docs.opencv.org/3.0-beta/doc/py_tutorials/py_feature2d/py_table_of_contents_feature2d/py_table_of_contents_feature2d.html)
