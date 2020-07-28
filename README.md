@@ -34,7 +34,7 @@ It's a repository where I keep updated about SLAM algorithms for state estimatio
 3. Google Cartographer (Open Karto)
 
 ### Mapping Framework:
-1. Octomapping (3D Mapping) [paper](https://www.researchgate.net/publication/257523133) [code](https://github.com/OctoMap/octomap) [ROS Support](https://wiki.ros.org/octomap)
+1. Octomapping (3D Mapping) <[paper](https://www.researchgate.net/publication/257523133)> <[code](https://github.com/OctoMap/octomap)> <[ROS Support](https://wiki.ros.org/octomap)>
 2. VoxBlox (3D Mapping)
 3. PointClouds (3D Mapping)
 4. Elevation Maps (3D Mapping)
