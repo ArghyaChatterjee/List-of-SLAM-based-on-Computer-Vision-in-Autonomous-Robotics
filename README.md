@@ -35,7 +35,9 @@ It's a repository where I keep updated about SLAM algorithms for state estimatio
 
 ### Mapping Framework:
 1. Octomapping (3D Mapping) <[paper](https://www.researchgate.net/publication/257523133)> <[code](https://github.com/OctoMap/octomap)> <[ROS Support](https://wiki.ros.org/octomap)>
-2. VoxBlox (3D Mapping)
+2. VoxBlox (3D Mapping) <[paper](http://helenol.github.io/publications/iros_2017_voxblox.pdf)> <[code](https://github.com/ethz-asl/voxblox)> <[ROS Support](https://voxblox.readthedocs.io/en/latest/pages/Installation.html)>
+3. VoxGraph (3D Mapping) <[paper](https://www.research-collection.ethz.ch/bitstream/handle/20.500.11850/385682/Voxgraph-ETHpreprintversion.pdf)> <[code](https://github.com/ethz-asl/voxgraph)> <[ROS Support](https://github.com/ethz-asl/voxgraph)>
+4. MRFMapping (3D Mapping) <[paper](https://arxiv.org/pdf/2006.03512.pdf)> <[code](https://github.com/mrfmap/mrfmap)> <[ROS Support](https://github.com/mrfmap/mrfmap_ros)>
 3. PointClouds (3D Mapping)
 4. Elevation Maps (3D Mapping)
 5. Multi-level Surface Maps (3D Mapping) 
