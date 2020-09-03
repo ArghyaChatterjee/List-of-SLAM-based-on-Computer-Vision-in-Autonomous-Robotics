@@ -32,9 +32,9 @@ It's a repository where I keep updated about SLAM algorithms for state estimatio
 1. Gmapping (2D SLAM) <[paper](https://www.researchgate.net/publication/257523133)> <[code](https://github.com/OctoMap/octomap)> <[ROS Support](https://wiki.ros.org/octomap)>
 2. Hector SLAM (2D SLAM) <[paper](https://www.researchgate.net/publication/257523133)> <[code](https://github.com/OctoMap/octomap)> <[ROS Support](https://wiki.ros.org/octomap)>
 3. Cartographer (2D & 3D SLAM) <[paper](https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/45466.pdf)> <[code](https://github.com/cartographer-project/cartographer)> <[ROS Support](https://github.com/cartographer-project/cartographer_ros)>
-4. Lidar Odometry And Mapping (LOAM) 
-5. Lidar Inertial Odometry-Mapping (LIO-Mapping)
-6. Advanced-Lidar Odometry And Mapping (A-LOAM)
+4. Lidar Odometry And Mapping (LOAM, 3D SLAM) 
+5. Lidar Inertial Odometry-Mapping (LIO-Mapping, 3D SLAM)
+6. Advanced-Lidar Odometry And Mapping (A-LOAM, 3D SLAM)
 
 ### Mapping Framework:
 1. Octomapping (3D Mapping) <[paper](https://www.researchgate.net/publication/257523133)> <[code](https://github.com/OctoMap/octomap)> <[ROS Support](https://wiki.ros.org/octomap)>
