@@ -16,10 +16,10 @@ It's a repository where I keep updated about SLAM algorithms for state estimatio
 12. SLAM Toolbox
 13. LAMA
 
-### Stereo camera:
+### Monocular, Stereo & RGB-D camera:
 1. Gmapping (2D SLAM)
 2. Hector SLAM (2D SLAM)
-3. Google Cartographer (2D SLAM)
+3. Cartographer (2D & 3D SLAM) <[paper](https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/45466.pdf)> <[code](https://github.com/cartographer-project/cartographer)> <[ROS Support](https://github.com/cartographer-project/cartographer_ros)>
 4. RTAB MAP (3D SLAM)
 5. KIMERA (3D SLAM)
 6. TEASER ++ (3D SLAM)
@@ -29,9 +29,12 @@ It's a repository where I keep updated about SLAM algorithms for state estimatio
 10. ROVIO (3D SLAM)
 
 ### LIDAR based SLAM:
-1. Gmapping (FAST SLAM)
-2. Hector SLAM
-3. Google Cartographer (Open Karto)
+1. Gmapping (2D SLAM) <[paper](https://www.researchgate.net/publication/257523133)> <[code](https://github.com/OctoMap/octomap)> <[ROS Support](https://wiki.ros.org/octomap)>
+2. Hector SLAM (2D SLAM) <[paper](https://www.researchgate.net/publication/257523133)> <[code](https://github.com/OctoMap/octomap)> <[ROS Support](https://wiki.ros.org/octomap)>
+3. Cartographer (2D & 3D SLAM) <[paper](https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/45466.pdf)> <[code](https://github.com/cartographer-project/cartographer)> <[ROS Support](https://github.com/cartographer-project/cartographer_ros)>
+4. Lidar Odometry And Mapping (LOAM) 
+5. Lidar Inertial Odometry-Mapping (LIO-Mapping)
+6. Advanced-Lidar Odometry And Mapping (A-LOAM)
 
 ### Mapping Framework:
 1. Octomapping (3D Mapping) <[paper](https://www.researchgate.net/publication/257523133)> <[code](https://github.com/OctoMap/octomap)> <[ROS Support](https://wiki.ros.org/octomap)>
@@ -42,6 +45,7 @@ It's a repository where I keep updated about SLAM algorithms for state estimatio
 4. Elevation Maps (3D Mapping)
 5. Multi-level Surface Maps (3D Mapping) 
 6. Gmapping (2D Mapping)
+7. Hector Mapping (2D Mapping)
 
 ## Tracking Algorithms in Visual Inertial Navigation for SLAM in OpenCV:
 ### [Pre-Tracker](https://docs.opencv.org/3.0-beta/doc/py_tutorials/py_feature2d/py_table_of_contents_feature2d/py_table_of_contents_feature2d.html)
