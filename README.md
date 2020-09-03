@@ -16,7 +16,7 @@ It's a repository where I keep updated about SLAM algorithms for state estimatio
 12. SLAM Toolbox
 13. LAMA
 
-### Monocular, Stereo & RGB-D camera:
+### Stereo & RGB-D camera:
 1. Gmapping (2D SLAM)
 2. Hector SLAM (2D SLAM)
 3. Cartographer (2D & 3D SLAM) <[paper](https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/45466.pdf)> <[code](https://github.com/cartographer-project/cartographer)> <[ROS Support](https://github.com/cartographer-project/cartographer_ros)>
