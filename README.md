@@ -40,7 +40,7 @@ This repository contains SLAM algorithms for state estimation based on sensor fu
 9. Lidar Inertial Odometry Smoothing and Mapping (LIO-SAM. 3D SLAM) <[paper](https://arxiv.org/pdf/2007.00258.pdf)> <[code](https://github.com/TixiaoShan/LIO-SAM)>
 10. Advanced-Lidar Odometry And Mapping (A-LOAM, 3D SLAM) <[paper](https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/45466.pdf)> <[code](https://github.com/HKUST-Aerial-Robotics/A-LOAM)>
 11. Faster Lidar Odometry and Mapping (F-LOAM, 3D SLAM) <[paper](https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/45466.pdf)> <[code](https://github.com/wh200720041/floam)>
-12. Modular System for Localization and Mapping (MOLA, 3D SLAM) <[paper](https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/45466.pdf)> <[code](https://github.com/wh200720041/floam)> <[Tutorial](https://docs.mola-slam.org/latest/)>
+12. Modular System for Localization and Mapping (MOLA, 3D SLAM) <[paper](https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/45466.pdf)> <[code](https://github.com/MOLAorg/mola)> <[Tutorial](https://docs.mola-slam.org/latest/)>
 13. Berkeley Localization and Mapping (BLAM, 3D SALM) <[paper](https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/45466.pdf)> <[code](https://github.com/luhongquan66/BLAM)>
 
 ### Mapping Framework:
