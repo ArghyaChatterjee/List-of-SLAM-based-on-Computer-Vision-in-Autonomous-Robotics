@@ -67,3 +67,7 @@ This repository contains SLAM algorithms for state estimation based on sensor fu
 ### Post-Tracker
 1. [Feature Matching (Brute-Force matcher and FLANN based matcher)](https://docs.opencv.org/3.0-beta/doc/py_tutorials/py_feature2d/py_matcher/py_matcher.html#matcher)
 2. [Feature Matching + Homography to find Objects](https://docs.opencv.org/3.0-beta/doc/py_tutorials/py_feature2d/py_feature_homography/py_feature_homography.html#py-feature-homography)
+
+## Important Sources
+1. https://openslam-org.github.io/
+2. https://github.com/YiChenCityU/Recent_SLAM_Research
