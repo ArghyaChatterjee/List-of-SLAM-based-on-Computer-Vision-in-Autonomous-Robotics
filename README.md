@@ -1,7 +1,7 @@
 # SLAM-Algorithms-in-Autonomous-Robotics
 This repository contains SLAM algorithms for state estimation based on sensor fusion in the Field of Autonomous Robotic Navigation.
 ## SLAM Algorithms for Drones and Ground Rovers based on Computer Vision:
-### Monocular camera:
+### Monocular camera based SLAM:
 1. SVO+MSF
 2. MSCKF
 3. ROVIO
@@ -16,7 +16,7 @@ This repository contains SLAM algorithms for state estimation based on sensor fu
 12. SLAM Toolbox
 13. LAMA
 
-### Stereo & RGB-D camera:
+### Stereo & RGB-D camera based SLAM:
 1. Gmapping (2D SLAM)
 2. Hector SLAM (2D SLAM)
 3. Cartographer (2D & 3D SLAM) <[paper](https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/45466.pdf)> <[code](https://github.com/cartographer-project/cartographer)> <[ROS Support](https://github.com/cartographer-project/cartographer_ros)>
