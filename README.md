@@ -54,7 +54,7 @@ This repository contains SLAM algorithms for state estimation based on sensor fu
 6. Gmapping (2D Mapping)
 7. Hector Mapping (2D Mapping)
 
-## Tracking Algorithms in Visual Inertial Navigation for SLAM in OpenCV:
+## Feature Tracking Algorithms in Visual Inertial Navigation for SLAM:
 ### [Pre-Tracker](https://docs.opencv.org/3.0-beta/doc/py_tutorials/py_feature2d/py_table_of_contents_feature2d/py_table_of_contents_feature2d.html)
 1. [Harris Corner Detection](https://docs.opencv.org/3.0-beta/doc/py_tutorials/py_feature2d/py_features_harris/py_features_harris.html#harris-corners)
 2. [Shi-Tomasi Corner Detector & Good Features to Track](https://docs.opencv.org/3.0-beta/doc/py_tutorials/py_feature2d/py_shi_tomasi/py_shi_tomasi.html#shi-tomasi)
