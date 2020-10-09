@@ -8,9 +8,9 @@ This repository contains SLAM algorithms for state estimation based on sensor fu
 4. OKVIS
 5. VINS-Mono
 6. SVO+GTSAM
-7. [ORB SLAM](https://github.com/raulmur/ORB_SLAM)
-8. [ORB SLAM 2](https://github.com/raulmur/ORB_SLAM2)
-9. [ORB SLAM 3](https://github.com/UZ-SLAMLab/ORB_SLAM3)
+7. ORB SLAM <[paper](http://webdiis.unizar.es/~raulmur/MurMontielTardosTRO15.pdf)> <[code](https://github.com/raulmur/ORB_SLAM)> <[ROS Support](https://github.com/raulmur/ORB_SLAM2/tree/master/Examples/ROS/ORB_SLAM2)>
+8. ORB SLAM 2 <[paper](https://arxiv.org/pdf/1610.06475.pdf)> <[code](https://github.com/raulmur/ORB_SLAM2)> <[ROS Support](https://github.com/raulmur/ORB_SLAM/tree/master/Thirdparty)>
+9. ORB SLAM 3 <[paper](https://arxiv.org/pdf/2007.11898.pdf)> <[code](https://github.com/UZ-SLAMLab/ORB_SLAM3)> <[ROS Support](https://github.com/UZ-SLAMLab/ORB_SLAM3/tree/master/Examples/ROS/ORB_SLAM3)>
 10. Tiny SLAM
 11. Xivo 
 12. SLAM Toolbox
@@ -28,7 +28,7 @@ This repository contains SLAM algorithms for state estimation based on sensor fu
 9. [ORB SLAM 3 (3D SLAM)](https://github.com/UZ-SLAMLab/ORB_SLAM3)
 10. ROVIO (3D SLAM)
 
-### LIDAR based SLAM:
+### SLAM Algorithms for Drones and Ground Rovers based on LIDAR Vision:
 1. Gmapping (2D SLAM) <[paper](https://www.researchgate.net/publication/257523133)> <[code](https://github.com/OctoMap/octomap)> <[ROS Support](https://wiki.ros.org/octomap)>
 2. Hector SLAM (2D SLAM) <[paper](https://www.researchgate.net/publication/257523133)> <[code](https://github.com/OctoMap/octomap)> <[ROS Support](https://wiki.ros.org/octomap)>
 3. Cartographer (2D & 3D SLAM) <[paper](https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/45466.pdf)> <[code](https://github.com/cartographer-project/cartographer)> <[ROS Support](https://github.com/cartographer-project/cartographer_ros)>
@@ -43,7 +43,7 @@ This repository contains SLAM algorithms for state estimation based on sensor fu
 12. Modular System for Localization and Mapping (MOLA, 3D SLAM) <[paper](https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/45466.pdf)> <[code](https://github.com/MOLAorg/mola)> <[Tutorial](https://docs.mola-slam.org/latest/)>
 13. Berkeley Localization and Mapping (BLAM, 3D SALM) <[paper](https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/45466.pdf)> <[code](https://github.com/luhongquan66/BLAM)>
 
-### Mapping Framework:
+## Mapping Framework for Drones and Ground Rovers:
 1. Octomapping (3D Mapping) <[paper](https://www.researchgate.net/publication/257523133)> <[code](https://github.com/OctoMap/octomap)> <[ROS Support](https://wiki.ros.org/octomap)>
 2. VoxBlox (3D Mapping) <[paper](http://helenol.github.io/publications/iros_2017_voxblox.pdf)> <[code](https://github.com/ethz-asl/voxblox)> <[ROS Support](https://voxblox.readthedocs.io/en/latest/pages/Installation.html)>
 3. VoxGraph (3D Mapping) <[paper](https://www.research-collection.ethz.ch/bitstream/handle/20.500.11850/385682/Voxgraph-ETHpreprintversion.pdf)> <[code](https://github.com/ethz-asl/voxgraph)> <[ROS Support](https://github.com/ethz-asl/voxgraph)>
