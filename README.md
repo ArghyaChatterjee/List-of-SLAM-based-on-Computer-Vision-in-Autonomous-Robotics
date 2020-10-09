@@ -8,8 +8,8 @@ This repository contains SLAM algorithms for state estimation based on sensor fu
 4. OKVIS
 5. VINS-Mono
 6. SVO+GTSAM
-7. ORB SLAM <[paper](http://webdiis.unizar.es/~raulmur/MurMontielTardosTRO15.pdf)> <[code](https://github.com/raulmur/ORB_SLAM)> <[ROS Support](https://github.com/raulmur/ORB_SLAM2/tree/master/Examples/ROS/ORB_SLAM2)>
-8. ORB SLAM 2 <[paper](https://arxiv.org/pdf/1610.06475.pdf)> <[code](https://github.com/raulmur/ORB_SLAM2)> <[ROS Support](https://github.com/raulmur/ORB_SLAM/tree/master/Thirdparty)>
+7. ORB SLAM <[paper](http://webdiis.unizar.es/~raulmur/MurMontielTardosTRO15.pdf)> <[code](https://github.com/raulmur/ORB_SLAM)> <[ROS Support](https://github.com/raulmur/ORB_SLAM/tree/master/Thirdparty)>
+8. ORB SLAM 2 <[paper](https://arxiv.org/pdf/1610.06475.pdf)> <[code](https://github.com/raulmur/ORB_SLAM2)> <[ROS Support](https://github.com/raulmur/ORB_SLAM2/tree/master/Examples/ROS/ORB_SLAM2)>
 9. ORB SLAM 3 <[paper](https://arxiv.org/pdf/2007.11898.pdf)> <[code](https://github.com/UZ-SLAMLab/ORB_SLAM3)> <[ROS Support](https://github.com/UZ-SLAMLab/ORB_SLAM3/tree/master/Examples/ROS/ORB_SLAM3)>
 10. Tiny SLAM
 11. Xivo 
@@ -23,9 +23,9 @@ This repository contains SLAM algorithms for state estimation based on sensor fu
 4. RTAB MAP (3D SLAM)
 5. KIMERA (3D SLAM)
 6. TEASER ++ (3D SLAM)
-7. [ORB SLAM (3D SLAM)](https://github.com/raulmur/ORB_SLAM)
-8. [ORB SLAM 2 (3D SLAM)](https://github.com/raulmur/ORB_SLAM2)
-9. [ORB SLAM 3 (3D SLAM)](https://github.com/UZ-SLAMLab/ORB_SLAM3)
+7. ORB SLAM <[paper](http://webdiis.unizar.es/~raulmur/MurMontielTardosTRO15.pdf)> <[code](https://github.com/raulmur/ORB_SLAM)> <[ROS Support](https://github.com/raulmur/ORB_SLAM/tree/master/Thirdparty)>
+8. ORB SLAM 2 <[paper](https://arxiv.org/pdf/1610.06475.pdf)> <[code](https://github.com/raulmur/ORB_SLAM2)> <[ROS Support](https://github.com/raulmur/ORB_SLAM2/tree/master/Examples/ROS/ORB_SLAM2)>
+9. ORB SLAM 3 <[paper](https://arxiv.org/pdf/2007.11898.pdf)> <[code](https://github.com/UZ-SLAMLab/ORB_SLAM3)> <[ROS Support](https://github.com/UZ-SLAMLab/ORB_SLAM3/tree/master/Examples/ROS/ORB_SLAM3)>
 10. ROVIO (3D SLAM)
 
 ### SLAM Algorithms for Drones and Ground Rovers based on LIDAR Vision:
