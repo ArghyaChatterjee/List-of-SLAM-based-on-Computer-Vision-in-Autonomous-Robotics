@@ -45,7 +45,7 @@ This repository contains SLAM algorithms for state estimation based on sensor fu
 14. Lidar Odometry for Consistent operation in Uncertain Settings (LOCUS, 3D SLAM) <[paper](https://arxiv.org/pdf/2012.14447.pdf)> 
 15. Degeneracy-Aware and Resilient Loop Closing in Perceptually-Degraded Environments (DARE-SLAM, 3D SLAM) <[paper](https://arxiv.org/pdf/2102.05117.pdf)>
 16. Large-Scale Autonomous Mapping and Positioning (LAMP, 3D SLAM) <[paper](https://arxiv.org/pdf/2003.01744.pdf)>
-17. A Fast, Robust LiDAR-inertial Odometry Package by Tightly-Coupled Iterated KF (FAST-LIO, 3D SLAM) <[code](https://github.com/hku-mars/FAST_LIO) <[paper](https://arxiv.org/pdf/2010.08196.pdf)>
+17. A Fast, Robust LiDAR-inertial Odometry Package by Tightly-Coupled Iterated KF (FAST-LIO, 3D SLAM) <[code](https://github.com/hku-mars/FAST_LIO)> <[paper](https://arxiv.org/pdf/2010.08196.pdf)> <[video](https://www.youtube.com/watch?v=iYCY6T79oNU)
 18. Robust, Real-time, L-I-V tightly-coupled state estimator and mapping (R2LIVE, 3D SLAM) <[paper](https://arxiv.org/pdf/2102.12400.pdf)> <[code](https://github.com/hku-mars/r2live)> <[video](https://www.youtube.com/watch?v=9lqRHmlN_MA)>
 
 ## Mapping Framework for Drones and Ground Rovers:
